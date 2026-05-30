@@ -1,5 +1,5 @@
 # Python Banking System
-# This is an upgraded terminal-based banking program.
+# This is a terminal-based banking program.
 # It includes account numbers, PIN login, multiple accounts,
 # deposits, withdrawals, transfers, transaction history,
 # transaction filtering, monthly statement export, and JSON saving.
